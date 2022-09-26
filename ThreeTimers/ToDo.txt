@@ -1,0 +1,20 @@
+﻿Add class			=> DotNet6_PeriodicTimer	--> done
+Add class			=> MyDispatcherTimer		--> done
+Add class			=> TimersTimer				--> done
+
+Add user control	=> TimerCtrl				--> done
+
+
+
+build control xaml  -> open TimerCtrl.xaml		--> done
+code behind  contorl-> open TimerCtrl.xaml.cs	--> done
+
+
+// let's write the code, to implement each feature
+
+Periodic Timer		-> DotNet6_PeriodicTimers.cs	--> done
+Dispatcher Timer	-> MyDispatcherTimer.cs			--> done
+Timers Timer		-> TimersTimer					--> done
+
+
+control - TimersCtrl -> mainwindow.xaml
